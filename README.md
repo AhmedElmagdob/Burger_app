@@ -1,1 +1,1 @@
-# Burger_app
+# Mini news app
